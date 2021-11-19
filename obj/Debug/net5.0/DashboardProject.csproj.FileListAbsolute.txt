@@ -1,0 +1,417 @@
+D:\DashboardProject\bin\Debug\net5.0\appsettings.Development.json
+D:\DashboardProject\bin\Debug\net5.0\appsettings.json
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.exe
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.deps.json
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.runtimeconfig.json
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.runtimeconfig.dev.json
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.dll
+D:\DashboardProject\bin\Debug\net5.0\ref\DashboardProject.dll
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.pdb
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.Views.dll
+D:\DashboardProject\bin\Debug\net5.0\DashboardProject.Views.pdb
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.AssemblyInfoInputs.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.AssemblyInfo.cs
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.CoreCompileInputs.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.MvcApplicationPartsAssemblyInfo.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorAssemblyInfo.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorAssemblyInfo.cs
+D:\DashboardProject\obj\Debug\net5.0\staticwebassets\DashboardProject.StaticWebAssets.Manifest.cache
+D:\DashboardProject\obj\Debug\net5.0\staticwebassets\DashboardProject.StaticWebAssets.xml
+D:\DashboardProject\obj\Debug\net5.0\scopedcss\bundle\DashboardProject.styles.css
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.TagHelpers.input.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.TagHelpers.output.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorCoreGenerate.cache
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorTargetAssemblyInfo.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorTargetAssemblyInfo.cs
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.Views.pdb
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.dll
+D:\DashboardProject\obj\Debug\net5.0\ref\DashboardProject.dll
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.pdb
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.genruntimeconfig.cache
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.CopyComplete
+D:\DashboardProject\bin\Debug\net5.0\Dapper.dll
+D:\DashboardProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\DashboardProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\DashboardProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\DashboardProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\DashboardProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DashboardProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Category\test.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\dashboard.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.AssemblyReference.cache
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\Index.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\profile.cshtml.g.cs
+D:\DashboardProject\bin\Debug\net5.0\Humanizer.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DashboardProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DashboardProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DashboardProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\DashboardProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\DashboardProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\DashboardProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\DashboardProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DashboardProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DashboardProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\Password.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\AddNewPost.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Page\Index.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Page\AddNewPage.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DashboardProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Slider\AddNewSlider.cshtml.g.cs
+D:\DashboardProject\obj\Debug\net5.0\Razor\Views\Slider\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\appsettings.json
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.exe
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.deps.json
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.runtimeconfig.json
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.runtimeconfig.dev.json
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ref\DashboardProject.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.pdb
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.Views.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.Views.pdb
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Dapper.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.AssemblyReference.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.AssemblyInfoInputs.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.AssemblyInfo.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.CoreCompileInputs.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorAssemblyInfo.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorAssemblyInfo.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\staticwebassets\DashboardProject.StaticWebAssets.Manifest.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\staticwebassets\DashboardProject.StaticWebAssets.xml
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\scopedcss\bundle\DashboardProject.styles.css
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.TagHelpers.input.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.TagHelpers.output.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorCoreGenerate.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\AddNewPost.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\Password.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\profile.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Category\test.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\dashboard.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Page\AddNewPage.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Page\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Slider\AddNewSlider.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Slider\Index.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorTargetAssemblyInfo.cache
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorTargetAssemblyInfo.cs
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.Views.pdb
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.CopyComplete
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\ref\DashboardProject.dll
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.pdb
+C:\Users\Sujan\Downloads\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.genruntimeconfig.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\appsettings.json
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.exe
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.deps.json
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.runtimeconfig.json
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.runtimeconfig.dev.json
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ref\DashboardProject.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.pdb
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.Views.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\DashboardProject.Views.pdb
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Dapper.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.AssemblyReference.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.AssemblyInfoInputs.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.AssemblyInfo.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.CoreCompileInputs.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorAssemblyInfo.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorAssemblyInfo.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\staticwebassets\DashboardProject.StaticWebAssets.Manifest.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\staticwebassets\DashboardProject.StaticWebAssets.xml
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\scopedcss\bundle\DashboardProject.styles.css
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.TagHelpers.input.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.TagHelpers.output.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorCoreGenerate.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\AddNewPost.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\Index.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\Password.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\AllPost\profile.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Category\test.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\dashboard.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Page\AddNewPage.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Page\Index.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Slider\AddNewSlider.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\Slider\Index.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorTargetAssemblyInfo.cache
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.RazorTargetAssemblyInfo.cs
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.Views.pdb
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.csproj.CopyComplete
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\ref\DashboardProject.dll
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.pdb
+C:\Users\md sohail alam\Downloads\Telegram Desktop\DashboardProject\DashboardProject\DashboardProject\obj\Debug\net5.0\DashboardProject.genruntimeconfig.cache

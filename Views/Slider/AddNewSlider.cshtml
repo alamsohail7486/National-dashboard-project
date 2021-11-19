@@ -1,0 +1,306 @@
+﻿@{
+    ViewData["Title"] = "AddNewSlider";
+
+}
+
+<script src="~/Dashboard/plugins/jquery/jquery.js"></script>
+
+
+<form method="post" asp-controller="Slider" asp-action="New" enctype="multipart/form-data">
+    <div class="content-wrapper" style="min-height: 189.167px;">
+        <!-- Content Header (Page header) -->
+        <div class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1 class="m-0">Slider</h1>
+                    </div><!-- /.col -->
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="#">Add New</a></li>
+                        </ol>
+                    </div><!-- /.col -->
+                </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </div>
+        <!-- /.content-header -->
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="card mb-4">
+                            <div class="card-header pb-0">
+                                <input type="hidden" class="form-control" name="id" id="Id" />
+                                <div class="form-group">
+                                    <h6>Title</h6>
+                                    <input type="text" id="title" class="form-control" autocomplete="off" placeholder="Enter title" name="Title">
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <div class="card-header pb-0">
+
+                                <div class="form-group">
+                                    <h6>Featured Image</h6>
+                                    <div class="file-upload">
+
+
+                                        <div class="image-upload-wrap">
+                                            <input class="form-control" multiple type="file" name="ProfileImage" id="Image" required />
+                                            <div class="drag-text">
+                                                <h3>Click to Upload Image</h3>
+                                            </div>
+                                        </div>
+                                        <div class="file-upload-content">
+                                            <img class="file-upload-image" src="~/Images/" alt="your image">
+                                            <div class="image-title-wrap">
+                                                <button type="button" onclick="removeUpload()" class="remove-image">
+                                                Remove <span class="image-title">Uploaded Image</span></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+
+                        </div>
+
+                        <div class="card">
+                            <div class="form-group">
+                                <h6 class="Publish">Active</h6>
+                            </div>
+                            <div class="padd10">
+                                <div class="padd10">
+                                    <input type="radio" id="publish1" class="isActive" name="isActive" value="True" checked /> True
+                                    <input type="radio" id="publish" class="isActive" name="isActive" value="False" /> False
+                                    <div class="padd10">
+                                        <div class="padd10">
+                                            @*<button id="btn-submit" class="btn btn-primary" type="button" onclick="InsertPage()">Publish</button>*@
+
+                                            <button id="resetSlider" type="button" class="btn btn-danger" onclick="Reset()">Reset</button>
+                                          @*<button id="instSlider" type="button" class="btn btn-info float-right" onclick="insertSlider()"> Add New Slider</button>*@
+                                          <input type ="submit" class="btn btn-danger" value="Submit" />
+                                            <button id="updSlider" type="button" class="btn btn-info float-right" onclick="updateSlider()"> update Slider</button>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+               
+                </div>
+                    
+            </div>
+            </div>
+        </section>
+        <!-- /.content -->
+    </div>
+</form>
+
+<script>
+
+    $(document).ready(function () {
+        debugger;
+        SlideList();
+        $('#instSlider').show();
+        $('#updSlider').hide();
+    });
+
+
+    function insertSlider() {
+        //here we are checking it's validation.//
+        if ($("#title").val() == "") {
+            alertify.error("Title is required")
+        }
+        else if ($("#images").val() == "") {
+            alertify.error("Image is required")
+        }
+        else if ($("#isActive").val() == "") {
+            toastr.error("IsActive is required")
+        }
+        else {
+            var slideobj = {
+                Title: $("#title").val(),
+                Image: $("#images").val(),
+                isActive: $('input[name="isActive"]:checked').val(),
+
+
+            }
+            $.ajax({
+                url: "/Slider/insertSlider",
+                type: "POST",
+                data: slideobj,
+                success: function (result) {
+                    toastr.success("The data is inserted successfully");
+                    SlideList();
+                    $('#Showdata').modal('hide');
+                    Reset();
+                },
+                error: function (result) {
+                    toastr.error("Error is occurs");
+                }
+
+            });
+        }
+    }
+
+    function SlideList() {
+       
+        // alert('hello');
+        $.ajax({
+            url: "/Slide/GetSliderList",
+            type: "GET",
+            dataType: "Json",
+            success: function (result) {
+                // console.log('Alam bhai ko result', result);
+
+                var html = '';
+                $.each(result, function (key, item) {
+                    // console.log('alam ka jalwa', item);
+                    html += '<tr>';
+                    html += '<td>' + item.id + '</td>';
+                    html += '<td>' + item.title + '</td>';
+                    html += ' <td>' + item.isActive + '</td>';
+                    html += ' <td><img src="../Images/' + item.image + '" height="50" width="50"/></td>';
+                    html += ' <td style= "Display:flex; "><button type="button" id="deleteSlide" class="btn btn-primary" style="margin-right:5%;" data-id=' + item.id + ' data-img=' + item.image + '><i class="far fa-trash-alt"></i></button>';
+                    html += '| <button type="button" class="btn btn-primary" onclick="Edit(' + item.id + ')"><i class="fas fa-pencil-alt"></i></button></td>';
+
+                    html += '</tr>';
+                });
+                $(".slider").html(html);
+            }
+        });
+    }
+
+    $('.slider').on('click', "#deleteSlide", function () {
+
+        var id = $(this).attr("data-id");
+        var image = $(this).attr("data-img");
+        deleteSlider(id, image);
+
+    });
+
+    function Edit(Id) {
+        // console.log("function called");
+
+        $('#updSlider').show();
+        $('#instSlider').hide();
+        $('#Showdata').modal('show');
+
+        $.ajax({
+            url: "/Slider/GetSliderById?Id=" + Id,
+            type: "GET",
+            dataType: "Json",
+            success: function (result) {
+
+                    $("#Id").val(result.id),
+                    $("#title").val(result.title),
+                    $("#Imagedit").html('<img src="../Images/' + result.image + '" height="50" width="50" />');
+                if (result.isActive) {
+                    $('#publish1').prop('checked', true);
+                }
+                else {
+                    $('#publish').prop('checked', true);
+                }
+                SlideList();
+            },
+            error: function (result) {
+                toastr.error("Error is occurs");
+            },
+
+        });
+    }
+
+    function UpdatePage() {
+        $('#updSlider').hide();
+        $('#instSlider').show();
+        toastr.success("The data is successfully updated");
+
+        //var updobj = {
+        //    Id: $("#Id").val(),
+        //    Title: $("#title").val(),
+        //    Image: $("#images").val(),
+        //    isActive: $('input[name="isActive"]:checked').val(),
+        //};
+        //$.ajax({
+        //    url: "/Slider/updateSlider",
+        //    type: "POST",
+        //    data: updobj,
+        //    success: function (result) {
+        //        toastr.success("The data is Updated successfully");
+        //        SlideList();
+        //        Reset();
+        //        $('#instSlider').show();
+        //        $('#updSlider').hide();
+        //        $('#Showdata').modal('hide');
+        //    },
+        //    error: function (result) {
+        //        toastr.error("The error is occuring on updating time");
+        //    }
+        //});
+    }
+
+    function DeleteSlider(Id, image) {
+        toastr.confirm('Confirm Title', 'Confirm Message',
+            function () {
+                $.ajax({
+                    url: "/Slider/deleteSlider",
+                    data: { id: Id, imgdel: image },
+                    type: "POST",
+                    success: function (result) {
+                        toastr.success("You have click ok");
+                        SlideList();
+                    },
+                });
+            },
+            function () {
+                toastr.error('Cancel')
+            })
+    }
+
+    function Reset() {
+        $("#title").val('');
+        $("#images").val('');
+        $("#Imagedit").html('');
+    }
+
+    $(document).ready(function () {
+
+        $('.hide input[type="radio"]').click(function () {
+            var value = $(this).val();
+            $.ajax({
+                url: "/Slider/insertSlider",
+                type: 'post',
+                data: { ajax: 1, value: value },
+                success: function (response) {
+                    $('#response').text(value);
+                }
+            });
+        });
+    });
+
+    $(document).ready(function () {
+        $(".custom-file-input").on("change", function () {
+            //console.log($(this));
+            //var filename = $(this).val().split("\\").pop();
+            //$(this).next(".custom-file-label").html(filename);
+
+            var filelabel1 = $(this).next(".custom-file-input");
+            var files = $(this)[0].files;
+            if (files.length > 1) {
+                filelabel1.html(files.length + 'files selected');
+
+            }
+            else if (files.length == 1) {
+                filelabel1.html(files[0].name);
+            }
+        })
+
+    });
+
+</script>

@@ -1,0 +1,333 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Dashboard/plugins/jquery/jquery.js"></script>
+
+@*<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>*@
+
+
+
+<div class="modal fade" id="deleteCateg1" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                </button>
+                <h4 class="modal-title custom_align" id="Heading" style="text-align:center;">Delete Role</h4>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-danger">
+                    <input type="hidden" class="form-control" id="deltId" />
+                    <i class="far fa-trash-alt"></i> Are you sure you want to delete this Record?
+                </div>
+            </div>
+            <div class="modal-footer ">
+                @*  <button type="button" class="btn btn-success" onclick="deleteCategory()">*@
+                <button type="button" class="btn btn-success" onclick="deleteCategory($('#deltId').val())">
+                    <i class="far fa-thumbs-up"></i> Yes
+                </button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">
+                    <i class="far fa-thumbs-down"></i> No
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <script>
+
+        $(function () {
+            $('#instCategory').show();
+            $('#updCategory').hide();
+            GetAllList();
+
+
+            $("#Title").keyup(function () {      //slug code..
+                var Text = $(this).val();
+                Text = Text.toLowerCase();
+                Text = Text.replace(/[^a-zA-Z0-9]+/g, '-');
+                $("#Slug").val(Text);
+            });
+
+            $('#search12').keyup(function () {
+
+                GetAllList();
+            });
+        })
+
+        function insertCategory() {
+            //debugger;
+            //here we are checking it's validation.//
+
+            if ($("#Title").val() == "") {
+                toastr.error("Title is required")
+            }
+            else if ($("#Slug").val() == "") {
+                toastr.error("Slug is required")
+            }
+            else if ($("#isActive").val() == "") {
+                toastr.error("IsActive is required")
+            }
+
+            else {
+                var insobj = {
+
+
+                    Title: $("#Title").val(),
+                    Slug: $("#Slug").val(),
+                    isActive: $('input[name="isActive"]:checked').val(),
+                    entryDate: $("#entryDate").val()
+                };
+
+                $.ajax({
+                    url: "/Category/insertCategory",
+                    type: "POST",
+                    data: insobj,
+                    success: function (result) {
+                        //debugger;
+                        toastr.success("The data is inserted successfully");
+                        GetAllList();
+                        Reset();
+
+                    },
+                    error: function (result) {
+                        toastr.error("Error is occurs");
+                    }
+
+                });
+            }
+        }
+
+        function GetAllList() {
+            // debugger;
+            $.ajax({
+                url: "/Category/GetAllList?search=" + $('#search12').val(),
+                type: "get",
+                dataType: "json",
+                success: function (result) {
+                    // debugger;
+                    var html = '';
+                    var sno = 1;
+                    $.each(result, function (key, item) {
+                        html += '<tr>';
+                        html += '<td>' + sno + '</td>';
+                        html += '<td>' + item.title + '</td>';
+                        html += ' <td>' + item.slug + '</td>';
+                        html += ' <td>' + item.isActive + '</td>';
+                        html += ' <td>' + item.entryDate + '</td>';
+                        html += ' <td style= "Display:flex;"><button type="button"  class="btn btn-danger" style="margin-right:5%;" onclick="deleteconfirm(' + item.id + ')" class="deletecat" data-id="' + item.id + '"><i class="far fa-trash-alt"></i></button>';
+                        html += ' <button type="button" class="btn btn-primary" onclick="Edit(' + item.id + ')">  <i class="fas fa-pencil-alt"></i></button></td>';
+                        html += '</tr>';
+                        sno++;
+                    });
+                    $(".getCategory").html(html);
+                }
+            });
+        };
+
+
+
+        function Edit(id) {
+            //debugger;
+            //$('#instCategory').hide();
+            //$('#updCategory').show();
+            $.ajax({
+                url: "/Category/GetListById?id=" + id,
+                type: "GET",
+                dataType: "Json",
+                success: function (result) {
+
+                    $('#instCategory').hide();
+                    $('#updCategory').show();
+
+                    $("#Id").val(result.id);
+                    $("#Title").val(result.title);
+                    $("#Slug").val(result.slug);
+                    if (result.isActive) {
+                        $('#publish1').prop('checked', true);
+                    }
+                    else {
+                        $('#publish').prop('checked', true);
+                    }
+                    $("#entryDate").val(result.entryDate);
+                    GetAllList();
+                },
+                error: function (result) {
+                    toastr.error("Error is occurs");
+                },
+            });
+        }
+
+        function updateCategory() {
+            //debugger;
+            //GetAllList();
+
+            var updobj = {
+                Id: $("#Id").val(),
+                Title: $("#Title").val(),
+                Slug: $("#Slug").val(),
+                isActive: $('input[name="isActive"]:checked').val(),
+                entryDate: $("#entryDate").val()
+            }
+            $.ajax({
+                url: "/Category/updateCategory",
+                type: "POST",
+                data: updobj,
+                success: function (result) {
+                    //debugger;
+                    toastr.success("The data is Updated successfully");
+                    GetAllList();
+                    Reset();
+                    $('#instCategory').show();
+                    $('#updCategory').hide();
+
+                },
+                error: function (result) {
+                    toastr.error("The error is occuring on updating time");
+                }
+            });
+        }
+
+        function deleteCategory(Id) {
+            //debugger;
+
+            $.ajax({
+                url: "/Category/deleteCategory",
+                data: { id: Id },
+                type: "Post",
+                success: function (result) {
+                    // debugger;
+                    toastr.success("You have deleted successfully");
+                    GetAllList();
+                },
+                error: function (result) {
+                    toastr.error("The error is occuring on Deleting Data");
+                },
+            });
+        };
+
+
+        function Reset() {
+            $("#Title").val('');
+            $("#Slug").val('');
+            $("#entryDate").val('');
+            $("#deltId").val('');
+        }
+
+        $('.hide input[type="radio"]').click(function () {
+            var value = $(this).val();
+            $.ajax({
+                url: "/Category/insertCategory",
+                type: 'post',
+                data: { ajax: 1, value: value },
+                success: function (response) {
+                    $('#response').text(value);
+                }
+            });
+        });
+
+        function deleteconfirm(id) {
+            //debugger;
+            var con = confirm("Are you sure you want to delete this Record?");
+            if (con === true) {
+                $('#deleteCateg1').modal('show');
+                $('#deltId').val(id);
+            }
+        }
+    </script>
+</div>
+
+<div class="content-wrapper" style="min-height: 215px;">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">Posts</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Category</a></li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card card-default">
+                        <form id="insert" role="form">
+
+                            <div class="card-body">
+                                <input type="hidden" class="form-control" name="id" id="Id" />
+                                <div class="form-group">
+                                    <label for="name">Title</label>
+                                    <input type="text" name="name" class="form-control" id="Title" placeholder="Enter new category name.." required autofocus="" autocomplete="off">
+                                    <div class="invalid-feedback msg-error-name"></div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="name">Slug</label>
+                                    <input type="text" name="name" class="form-control" id="Slug" placeholder="Enter new category name.." required autofocus="" autocomplete="off">
+                                    <div class="invalid-feedback msg-error-name"></div>
+                                </div>
+
+                                <div class="form-group">
+                                    <h4>Enter your IsActive</h4>
+                                    <input type="radio" id="publish1" class="isActive" name="isActive" value="True" checked /> True
+                                    <input type="radio" id="publish" class="isActive" name="isActive" value="False" /> False
+                                </div>
+
+                                <div class="card-footer">
+
+                                    <button id="resetCategory" type="button" class="btn btn-danger" onclick="Reset()">Reset</button>
+                                    <button id="instCategory" type="button" class="btn btn-info float-right" onclick="insertCategory()"> Add New Category</button>
+                                    <button id="updCategory" type="button" class="btn btn-info float-right" onclick="updateCategory()"> update Category</button>
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="Allpost">
+                        <div class="flexcreate">
+                            <div>
+
+                            </div>
+                            <div>
+                                <input type="text" name="title" id="search12" class="form-control" placeholder="Search">
+                            </div>
+                        </div>
+                        <div class="postable TBL">
+                            <table class="table table-striped table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>sno</th>
+                                        <th>Title</th>
+                                        <th>Slug</th>
+                                        <th>IsActive</th>
+                                        <th>EntryDate</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="getCategory">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->
+<footer class="main-footer">
+</footer>
